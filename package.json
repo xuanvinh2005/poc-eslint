@@ -1,0 +1,12 @@
+{
+  "name": "house-lookup",
+  "version": "1.0.0",
+  "description": "A minimal project using ESLint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "devDependencies": {
+    "eslint": "^10.1.7"
+  }
+}
